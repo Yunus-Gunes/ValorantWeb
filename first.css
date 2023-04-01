@@ -1,0 +1,89 @@
+#map-img{
+    width: 200px;
+    height: 600px;
+}
+body{
+    position: relative; 
+}
+
+
+#section2{
+    background-color:blue;
+}
+#section3{
+    background-color: rgb(15, 169, 40); 
+}
+
+
+#agent-card-in{
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
+
+
+    
+}
+
+#agent-img{
+    margin: auto;
+   
+    margin-top: 20px;
+    
+}
+
+
+#gun-card{
+
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    border-style: none;
+    background-color: rgb(15, 169, 40); 
+}
+
+
+
+#gun-button{
+
+    margin: auto;
+    border-style: none;
+    background-color: rgb(15, 169, 40); 
+    
+
+    
+}
+
+#gun-img{
+    margin: auto;
+    
+    
+    
+}
+
+.saat{
+    text-align:right;
+    font-size: 38px;
+    margin: 0px;
+    margin-right: 10px;
+    color: rgb(255, 255, 255);
+
+
+    
+}
+
+.clock-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: normal;
+    align-items: center;
+    align-content: center ;
+}
+
+#header-nav {
+    background-color: #180bdb;
+    border-radius: 0;
+    border: 0;
+    font-size: 25px;
+    
+}
+
